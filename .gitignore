@@ -1,0 +1,28 @@
+# Byte-compiled / compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Python distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Local environment variables
+.env
+
+# Database
+*.sqlite3
+*.db
